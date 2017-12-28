@@ -1,0 +1,13 @@
+bottle==0.12.13
+certifi==2017.11.5
+chardet==3.0.4
+dateparser==0.6.0
+idna==2.6
+python-dateutil==2.6.1
+pytz==2017.3
+regex==2017.12.12
+requests==2.18.4
+ruamel.yaml==0.15.35
+six==1.11.0
+tzlocal==1.5.1
+urllib3==1.22
